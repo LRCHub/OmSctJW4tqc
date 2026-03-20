@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "シックス・フィート・アンダー",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-03-20T01:19:08.340733Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シックス・フィート・アンダー",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_シックス・フィート・アンダー_Aqu3ra.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "シックス・フィート・アンダー",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/localdb_01_シックス・フィート・アンダー_Aqu3ra.txt",
+      "repo_name": "8JJXEhqkjZA"
+    }
+  ]
+}
